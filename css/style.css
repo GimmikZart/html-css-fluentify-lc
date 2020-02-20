@@ -34,12 +34,42 @@
 
 /* PARTE ALTA---------------------------------------*/
 header {
-
+  /* debug */
   padding: 50px 0px;
   background-color: red;
   border: 1px solid black;
+  /* fine debug */
+  min-height: 500px;
+  background-image: url(../img/oldman.png);
+  background-repeat: no-repeat;
+  background-size:40%;
+  background-position: 1122px 100px;
+  background-color: #0d325a;
+}
+header img {
+  float: left;
 }
 
+#mainnav {
+  /* debug */
+  width: 40%;
+  padding: 20px 0;
+  background-color: rgb(55, 101, 232);
+  border: 1px solid black;
+  /* fine debug */
+  float: left;
+}
+
+#navlogin {
+  /* debug */
+  width: 30%;
+  padding: 20px 0;
+  background-color: rgb(51, 218, 198);
+  border: 1px solid black;
+  /* fine debug */
+  float: right;
+
+}
 /* CONTENUTO SEZIONI-------------------------------- */
 section {
   padding: 30px 0;
