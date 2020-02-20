@@ -1,0 +1,55 @@
+/* FOGLIO DI STILE */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* PARTE ALTA---------------------------------------*/
+header {
+  padding: 50px 0px;
+  background-color: red;
+  border: 1px solid black;
+}
+
+/* CONTENUTO SEZIONI-------------------------------- */
+section {
+  padding: 30px 0;
+  background-color: blue;
+  border:2px solid black;
+}
+
+/* SEZIONE UNO------------ */
+
+
+/* SEZIONE DUE------------ */
+
+
+/* SEZIONE TRE------------ */
+
+
+/* SEZIONE QUATTRO------------ */
+
+
+/* SEZIONE CINQUE------------ */
+
+
+/* SEZIONE SEI------------ */
+
+
+/* SEZIONE SETTE------------ */
+
+
+/* SEZIONE OTTO------------ */
+
+
+/* SEZIONE NOVE------------ */
+
+
+
+/* PARTE BASSA---------------------------------- */
+footer {
+  padding: 50px 0;
+  background-color: grey;
+  border:2px solid black;
+  }
